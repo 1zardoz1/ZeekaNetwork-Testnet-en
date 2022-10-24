@@ -9,5 +9,13 @@
 
 *Installation*
 ```
+apt install screen
+```
+```
 sudo su
 ```
+```
+sudo apt get update
+```
+
+
