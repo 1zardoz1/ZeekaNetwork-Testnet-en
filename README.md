@@ -20,5 +20,7 @@ sudo apt get update
 ```
 sudo apt install -y build-essential libssl-dev cmake
 ```
+*Rust Installation*
+
 
 
