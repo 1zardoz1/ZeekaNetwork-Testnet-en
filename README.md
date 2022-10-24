@@ -61,6 +61,10 @@ bazuka node --listen 0.0.0.0:8765 --external (your IP address):8765  --network c
 
 ![z4](https://user-images.githubusercontent.com/100621008/197651409-36ddc021-462c-4261-9d16-e561280c2e0e.jpg)
 
+* [Explorer linki](http://152.228.155.120:8000/)
+* [Web Site](https://zeeka.network/)
+* [Discord](https://discord.com/channels/923604493378154496/923604493843697698)
+
 
 
 
