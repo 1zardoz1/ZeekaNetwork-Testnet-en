@@ -50,6 +50,9 @@ bazuka init --seed (seed phrase) --network chaos --node 127.0.0.1:8765
 screen -S bazuka
 ```
 ***edit the (your IP address) and (your discord handle) sections in the code below with your own information***
+```
+bazuka node --listen 0.0.0.0:8765 --external (your IP address):8765  --network chaos --db ~/.bazuka-chaos --bootstrap 144.91.101.166:8765 --bootstrap 45.67.228.84:8765 --bootstrap 152.228.155.120:8765 --bootstrap 80.87.202.42:8765 --bootstrap 148.251.1.124:8765 \ --discord-handle "(your discord handle)"
+```
 
 
 
