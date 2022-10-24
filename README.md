@@ -9,16 +9,16 @@
 
 *Installation*
 ```
-apt install screen
+apt update && apt upgrade -y 
 ```
 ```
-sudo su
+apt install git
 ```
 ```
-sudo apt get update
+apt install screen 
 ```
 ```
-sudo apt install -y build-essential libssl-dev cmake
+apt install -y build-essential libssl-dev cmake
 ```
 *Rust Installation*
 
