@@ -42,6 +42,9 @@ cd bazuka
 cargo install --path .
 ```
 ***edit and save the below (seed phrase) as you wish (this is your secret key to reach your wallet)***
+```
+bazuka init --seed (seed phrase) --network chaos --node 127.0.0.1:8765
+```
 
 
 
