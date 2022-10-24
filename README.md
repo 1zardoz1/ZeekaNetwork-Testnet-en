@@ -10,5 +10,4 @@
 *Installation*
 ```
 sudo su
-
 ```
