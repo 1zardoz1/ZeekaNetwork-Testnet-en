@@ -36,6 +36,7 @@ git clone https://github.com/zeeka-network/bazuka
 source "$HOME/.cargo/env"
 ```
 *path installation*
+
 ***takes a long time and will look like below***
 ```
 cd bazuka
