@@ -8,3 +8,7 @@
 |   2   |   4   |
 
 *Installation*
+```
+sudo su
+
+```
