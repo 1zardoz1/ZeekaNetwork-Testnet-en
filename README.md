@@ -21,6 +21,7 @@ sudo apt get update
 sudo apt install -y build-essential libssl-dev cmake
 ```
 *Rust Installation*
+
 **Choose 1 from those options that will appear during installation**
 
 
