@@ -45,6 +45,7 @@ cargo install --path .
 ```
 bazuka init --seed (seed phrase) --network chaos --node 127.0.0.1:8765
 ```
+**open screen**
 
 
 
