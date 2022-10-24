@@ -26,6 +26,7 @@ sudo apt install -y build-essential libssl-dev cmake
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
+![z1](https://user-images.githubusercontent.com/100621008/197636751-0132be53-ae44-48d3-944e-203ef7fcdd38.jpg)
 
 
 
