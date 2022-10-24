@@ -36,10 +36,14 @@ git clone https://github.com/zeeka-network/bazuka
 source "$HOME/.cargo/env"
 ```
 *path installation*
+***takes a long time and will look like below***
 ```
 cd bazuka
+apt install -y g++
 cargo install --path .
 ```
+![z3](https://user-images.githubusercontent.com/100621008/197649567-c4afb444-25e4-42c1-93b3-07fefdb50055.jpg)
+
 ***edit and save the below (seed phrase) as you wish (this is your secret key to reach your wallet)***
 ```
 bazuka init --seed (seed phrase) --network chaos --node 127.0.0.1:8765
