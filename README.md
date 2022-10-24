@@ -45,13 +45,13 @@ cargo install --path .
 ```
 ![z3](https://user-images.githubusercontent.com/100621008/197649567-c4afb444-25e4-42c1-93b3-07fefdb50055.jpg)
 
-***edit and save the below (seed phrase) as you wish (this is your secret key to reach your wallet)***
-```
-bazuka init --seed (seed phrase) --network chaos --node 127.0.0.1:8765
-```
 **open screen**
 ```
 screen -S bazuka
+```
+***edit and save the below (seed phrase) as you wish (this is your secret key to reach your wallet)***
+```
+bazuka init --seed (seed phrase) --network chaos --node 127.0.0.1:8765
 ```
 ***edit the (your IP address) and (your discord handle) sections in the code below with your own information***
 ```
