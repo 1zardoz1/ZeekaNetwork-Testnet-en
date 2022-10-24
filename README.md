@@ -41,6 +41,7 @@ source "$HOME/.cargo/env"
 cd bazuka
 cargo install --path .
 ```
+***edit and save the below (seed phrase) as you wish (this is your secret key to reach your wallet)***
 
 
 
