@@ -5,4 +5,4 @@
 *System Requirements*
 |  CPU  |  RAM  |
 |-------|-------|
-|   2   |   4   |
+|     2 |     4 |
