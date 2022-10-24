@@ -17,5 +17,8 @@ sudo su
 ```
 sudo apt get update
 ```
+```
+sudo apt install -y build-essential libssl-dev cmake
+```
 
 
