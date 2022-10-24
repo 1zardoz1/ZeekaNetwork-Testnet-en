@@ -49,6 +49,7 @@ bazuka init --seed (seed phrase) --network chaos --node 127.0.0.1:8765
 ```
 screen -S bazuka
 ```
+***edit the (your IP address) and (your discord handle) sections in the code below with your own information***
 
 
 
