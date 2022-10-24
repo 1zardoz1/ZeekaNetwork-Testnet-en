@@ -33,6 +33,9 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 apt install git
 git clone https://github.com/zeeka-network/bazuka
 ````
+```
+source "$HOME/.cargo/env"
+```
 
 
 
